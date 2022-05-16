@@ -7,6 +7,13 @@ body {
 
 }
 
+.foto_perfil{
+    border-radius:50%; 
+    height: 100px;
+    width: 100px;
+
+}
+
 #title, .subtitle, .post_title {
     color: rgb(14, 14, 22);
 
@@ -51,8 +58,10 @@ a{
 }
 
 .post_image {
-    border-radius: 50em;
     margin: auto;
+    height: 200px;
+    width: 200px;
+.contai
 }
 
 .contacts_list {
@@ -64,4 +73,10 @@ a{
 .contacts_list li a {
     color:rgb(17, 15, 122);
     text-decoration: none;
+}
+.rodape {
+    background-color:rgb(226, 110, 43);
+    border-radius: 20em;
+    margin: 80px;
+
 }
